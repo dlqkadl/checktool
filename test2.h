@@ -1,5 +1,5 @@
 struct AAA{
     a = 'a',
     aa = 'aa',
-    aaa = 'aaa'
+    aaa = 'aaa333'
 }
