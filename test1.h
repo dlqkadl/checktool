@@ -1,5 +1,5 @@
 struct body{
-    name = "lilei",
+    name = "lilei22",
     age = 18
 }
 
